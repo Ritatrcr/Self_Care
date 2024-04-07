@@ -1,0 +1,25 @@
+# Simple GUI Application with Tkinter
+
+This is a simple graphical user interface (GUI) application built using Tkinter, a standard GUI library for Python. The application provides basic functionality such as login, sign up, and navigation between different sections.
+
+## Features
+
+- **Start Page**: Allows users to log in or sign up for the application.
+- **Log In Page**: Provides fields to enter username and password for authentication.
+- **Sign Up Page**: Allows new users to create an account by providing username, password, and email.
+- **Main Page**: Displays different sections of the application, including:
+  - About Us: Provides information about the application.
+  - Calendar: Displays a calendar widget.
+  - Feelings: Allows users to express their feelings by selecting from different emotions.
+  - Sleep: Provides information about the importance of quality sleep.
+- **Navigation**: Users can easily switch between different sections using navigation buttons.
+- **Customized Widgets**: Uses custom Tkinter widgets for a more visually appealing interface.
+
+
+
+##Dependencies
+Python 3.x
+Tkinter
+tkcalendar
+CustomTkinter (included in the repository)
+
